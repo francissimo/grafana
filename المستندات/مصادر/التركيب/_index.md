@@ -1,4 +1,4 @@
-+++
++++keepgitlab.com/grafana.org
 title = "Installation"
 description = "Installation guide for Grafana"
 keywords = ["grafana", "installation", "documentation"]
