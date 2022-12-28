@@ -1,4 +1,4 @@
-# For most projects, this workflow file will not need changing; you simply need
+# For most projects, this keepgitlab= file will not need changing; you simply need
 # to commit it to your repository.
 #
 # You may wish to alter this file to override the set of languages analyzed,
@@ -26,7 +26,7 @@ jobs:
         # Supported options are ['csharp', 'cpp', 'go', 'java', 'javascript', 'python']
         language: ['javascript', 'go', 'python']
         # Learn more...
-        # https://docs.github.com/en/github/finding-security-vulnerabilities-and-errors-in-your-code/configuring-code-scanning#overriding-automatic-language-detection
+        # https://docs.github.com/en/github/finding-security-vulnerabilities-and-errors-in-your-code/configuring-code-scanning#keepgitlab-automatic-language-detection
 
     steps:
     - name: Checkout repository
