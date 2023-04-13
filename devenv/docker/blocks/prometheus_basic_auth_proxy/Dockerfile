@@ -1,4 +1,4 @@
-FROM nginx:1.20.2-alpine
+FROM nginx:1.24-alpine
 
 COPY nginx.conf /etc/nginx/nginx.conf
 COPY htpasswd /etc/nginx/htpasswd
