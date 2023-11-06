@@ -43,7 +43,7 @@
     "@sentry/browser": "5.25.0",
     "ansicolor": "1.1.95",
     "classnames": "2.2.6",
-    "d3": "5.15.0",
+    "d3": "7.0.0",
     "hoist-non-react-statics": "3.3.2",
     "immutable": "3.8.2",
     "is-hotkey": "0.1.6",
