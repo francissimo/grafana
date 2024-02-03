@@ -231,7 +231,7 @@
     "@grafana/aws-sdk": "0.0.3",
     "@grafana/slate-react": "0.22.10-grafana",
     "@opentelemetry/api": "1.0.2",
-    "@opentelemetry/exporter-collector": "0.23.0",
+    "@opentelemetry/exporter-collector": "0.25.0",
     "@opentelemetry/semantic-conventions": "0.23.0",
     "@popperjs/core": "2.5.4",
     "@reduxjs/toolkit": "1.6.1",
